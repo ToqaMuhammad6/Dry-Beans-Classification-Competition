@@ -3,7 +3,13 @@ It's simple. You are given a set of features extracted from the shape of the bea
 
 **What's expected?**
 
-* We form a team.
+* We form a team:
+
+   * [Hebatoallah Yahia](https://github.com/hebatoallah-yehya1111)
+   * [Sara-Ahmed30](https://github.com/Sara-Ahmed30)
+   * [Reem Kamal youssef](https://github.com/ReemKamal)
+   * [Toqa Muhammad](https://github.com/ToqaMuhammad6)
+   * [Yomna Ali](https://github.com/YomnaAhmed97)
 
 * Load and manipulate the data.
 
